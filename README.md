@@ -6,7 +6,7 @@ This repository provides code for both training and using the restricted robust 
 *Dimitris Tsipras\*, Shibani Santurkar\*, Logan Engstrom\*, Alexander Turner, Aleksander Madry*  
 https://arxiv.org/abs/1805.12152  
 
-We show that adversarial robustness often inevitablely results in accuracy loss. The silver lining: adversarial training induces more semantically meaningful gradients and gives adversarial examples with GAN-like trajectories:  
+We show that adversarial robustness often inevitably  results in accuracy loss. The silver lining: adversarial training induces more semantically meaningful gradients and gives adversarial examples with GAN-like trajectories:  
 
 <img src = 'https://pbs.twimg.com/media/DengXkCWAAADnUN.jpg:large' width='800px' />
 
